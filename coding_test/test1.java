@@ -6,7 +6,7 @@
 class test1 {
 	public static void main (String[] args) {
 		System.out.println("GfG!");
-		String input="Denny Mathew";
+		String input="Detoxic Soul";
 		System.out.println(removeChars(input,'e'));
 	}
 	public static String removeChars(String input, char key){
